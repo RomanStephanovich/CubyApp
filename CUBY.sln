@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUBY", "CUBY\CUBY.csproj", "{A40D91D9-59BE-4260-807D-805595C13B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUBY.Gui", "WpfApp1\CUBY.Gui.csproj", "{E5086C48-C5B2-4170-A803-8B9122F51A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CUBY.Test", "CUBY.Test\CUBY.Test.csproj", "{984D44A8-257D-48D2-8422-A9630D7B44AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40D91D9-59BE-4260-807D-805595C13B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40D91D9-59BE-4260-807D-805595C13B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40D91D9-59BE-4260-807D-805595C13B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40D91D9-59BE-4260-807D-805595C13B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5086C48-C5B2-4170-A803-8B9122F51A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5086C48-C5B2-4170-A803-8B9122F51A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5086C48-C5B2-4170-A803-8B9122F51A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5086C48-C5B2-4170-A803-8B9122F51A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{984D44A8-257D-48D2-8422-A9630D7B44AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984D44A8-257D-48D2-8422-A9630D7B44AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{984D44A8-257D-48D2-8422-A9630D7B44AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984D44A8-257D-48D2-8422-A9630D7B44AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B0F2F8-A3B4-4340-8722-9A3D420CA68C}
+	EndGlobalSection
+EndGlobal
